@@ -1,5 +1,3 @@
-# Sky Yang
-
 <h1 align="center">Hi 👋, I'm Sky Yang</h1>
 <h3 align="center">A passionate starting web developer from Hong Kong</h3>
 
