@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skytw22" alt="skytw22" /></a> </p>
 
-- 🔭 I’m currently studying [MSc(E-commerce and Internet Computing) at](https://www.hku.hk/)
+- 🔭 I’m currently studying [MSc in E-commerce and Internet Computing at The University of Hong Kong](https://www.hku.hk/)
 
 - 🌱 I’m currently learning **programming and web development (The Odin Project)**
 
