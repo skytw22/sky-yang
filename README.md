@@ -1,10 +1,7 @@
-<a href="https://app.daily.dev/skyytw"><img src="https://github.com/skytw22/skyytw22/blob/main/devcard.svg" width="400" alt="Tianwen's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Sky</h1>
 <h3 align="center">A passionate web developer based in Hong Kong 🇭🇰 </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skytw22" alt="skytw22" /></a> </p>
-
-- 🔭 I’m currently studying [MSc(E-commerce and Internet Computing) at](https://www.hku.hk/)
+- 🔭 I’m currently studying [MSc(E-commerce and Internet Computing) at The University of Hong Kong](https://www.hku.hk/)
 
 - 🌱 I’m currently learning **The Odin Project**
 
@@ -21,6 +18,9 @@
 - ⚡ Fun fact **I'm a Hong Kong MENSA member**
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://app.daily.dev/skyytw"><img src="https://github.com/skytw22/skyytw22/blob/main/devcard.svg" width="400" alt="Tianwen's Dev Card"/></a>
+
 <p align="left">
 <a href="https://dev.to/skytw22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skytw22" height="30" width="40" /></a>
 <a href="https://twitter.com/wyteni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wyteni" height="30" width="40" /></a>
@@ -34,3 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skytw22&show_icons=true&locale=en&layout=compact" alt="skytw22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skytw22&show_icons=true&locale=en" alt="skytw22" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skytw22" alt="skytw22" /></a> </p>
