@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **skyyang0202@gmail.com**
 
-- ⚡ Fun fact **I'm a Hong Kong MENSA member**
+- ⚡ Fun fact **I'm INFJ-T**
 
 <h3 align="left">Connect with me:</h3>
 
