@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sky</h1>
-<h3 align="center">A passionate web developer based in Hong Kong 🇭🇰 </h3>
+<h3 align="center">A web developer currently based in Hong Kong 🇭🇰 </h3>
 
 - 🔭 I’m currently studying [MSc(E-commerce and Internet Computing) at The University of Hong Kong](https://www.hku.hk/)
 
@@ -7,15 +7,7 @@
 
 - 👯 My Area of Interest's are **Web Development, Digital Marketing and UX/UI Design**
 
-- 🤝 I’m looking for help with **gaining more experiences in web development!**
-
-- 👨‍💻 All of my projects are available at [https://github.com/skytw22](https://github.com/skytw22)
-
-- 💬 Ask me about **anything!**
-
 - 📫 How to reach me **skyyang0202@gmail.com**
-
-- ⚡ Fun fact **I'm INFJ-T**
 
 <h3 align="left">Connect with me:</h3>
 
